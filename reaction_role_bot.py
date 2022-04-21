@@ -1,3 +1,5 @@
+""" A discord bot that can be used to change user role by reaction """
+
 import discord
 import os
 
